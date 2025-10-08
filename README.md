@@ -5,8 +5,8 @@ MiniSearch Project
 
 About
 This is my small Python project where I made a simple search engine. The program takes some text documents (demo corpus) and lets the user search with words or small queries. 
-Features:
-Works with demo text corpus.
+The fаeatures are:
+Works with the demo text corpus.
 User can choose tokenizer (basic if you press enter).
 There are 2 modes: plain and simple.
 Supports queries with AND / OR / NOT.
